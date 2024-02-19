@@ -1,0 +1,91 @@
+﻿Mouse,Gen,Stage,Behavior,FFT,Dates
+1146,Control,Baseline,Food,0.0204,08-02 / 14-02
+1146,Control,Baseline,Motion,0.0755,08-02 / 14-02
+1146,Control,Baseline,Nest,0.0748,08-02 / 14-02
+1148,Bmal KO,Baseline,Food,0.0058,08-02 / 14-02
+1148,Bmal KO,Baseline,Motion,0.0166,08-02 / 14-02
+1148,Bmal KO,Baseline,Nest,0.0193,08-02 / 14-02
+1180,Control,Baseline,Food,0.0135,08-02 / 14-02
+1180,Control,Baseline,Motion,0.0155,08-02 / 14-02
+1180,Control,Baseline,Nest,0.0029,08-02 / 14-02
+1146,Control,Shocks,Food,0.0267,23-02 / 01-03
+1146,Control,Shocks,Motion,0.0593,23-02 / 01-03
+1146,Control,Shocks,Nest,0.0347,23-02 / 01-03
+1148,Bmal KO,Shocks,Food,0.0046,23-02 / 01-03
+1148,Bmal KO,Shocks,Motion,0.0003,23-02 / 01-03
+1148,Bmal KO,Shocks,Nest,0.0019,23-02 / 01-03
+1180,Control,Shocks,Food,0.015,23-02 / 01-03
+1180,Control,Shocks,Motion,0.017,23-02 / 01-03
+1180,Control,Shocks,Nest,0.0075,23-02 / 01-03
+1146,Control,Post,Food,0.0056,16-3 / 22-03
+1146,Control,Post,Motion,0.0142,16-3 / 22-03
+1146,Control,Post,Nest,0.0028,16-3 / 22-03
+1148,Bmal KO,Post,Food,0.0046,16-3 / 22-03
+1148,Bmal KO,Post,Motion,0.0049,16-3 / 22-03
+1148,Bmal KO,Post,Nest,0.0034,16-3 / 22-03
+1180,Control,Post,Food,0.0084,16-3 / 22-03
+1180,Control,Post,Motion,0.0098,16-3 / 22-03
+1180,Control,Post,Nest,0.0062,16-3 / 22-03
+1245,Bmal KO,Baseline,Food,0.004,09-04 / 15-04
+1245,Bmal KO,Baseline,Motion,0.0101,09-04 / 15-04
+1245,Bmal KO,Baseline,Nest,0.0238,09-04 / 15-04
+1355,Bmal KO,Baseline,Food,0.0051,09-04 / 15-04
+1355,Bmal KO,Baseline,Motion,0.0007,09-04 / 15-04
+1355,Bmal KO,Baseline,Nest,0.0056,09-04 / 15-04
+1410,Bmal KO,Baseline,Food,0.0034,09-04 / 15-04
+1410,Bmal KO,Baseline,Motion,0.0023,09-04 / 15-04
+1410,Bmal KO,Baseline,Nest,0.0041,09-04 / 15-04
+1411,Bmal KO,Baseline,Food,0.0048,09-04 / 15-04
+1411,Bmal KO,Baseline,Motion,0.0014,09-04 / 15-04
+1411,Bmal KO,Baseline,Nest,0.0061,09-04 / 15-04
+1245,Bmal KO,Shocks,Food,0.0051,24-04 / 30-04
+1245,Bmal KO,Shocks,Motion,0.0066,24-04 / 30-04
+1245,Bmal KO,Shocks,Nest,0.0055,24-04 / 30-04
+1355,Bmal KO,Shocks,Food,0.0052,24-04 / 30-04
+1355,Bmal KO,Shocks,Motion,0.0083,24-04 / 30-04
+1355,Bmal KO,Shocks,Nest,0.0036,24-04 / 30-04
+1410,Bmal KO,Shocks,Food,0.0069,24-04 / 30-04
+1410,Bmal KO,Shocks,Motion,0.0096,24-04 / 30-04
+1410,Bmal KO,Shocks,Nest,0.0053,24-04 / 30-04
+1411,Bmal KO,Shocks,Food,0.0105,24-04 / 30-04
+1411,Bmal KO,Shocks,Motion,0.0076,24-04 / 30-04
+1411,Bmal KO,Shocks,Nest,0.0086,24-04 / 30-04
+1245,Bmal KO,Post,Food,0.0104,18-05 / 24-05
+1245,Bmal KO,Post,Motion,0.0054,18-05 / 24-05
+1245,Bmal KO,Post,Nest,0.0055,18-05 / 24-05
+1355,Bmal KO,Post,Food,0.0051,18-05 / 24-05
+1355,Bmal KO,Post,Motion,0.0073,18-05 / 24-05
+1355,Bmal KO,Post,Nest,0.0004,18-05 / 24-05
+1410,Bmal KO,Post,Food,0.0221,18-05 / 24-05
+1410,Bmal KO,Post,Motion,0.0059,18-05 / 24-05
+1410,Bmal KO,Post,Nest,0.0021,18-05 / 24-05
+1411,Bmal KO,Post,Food,0.0176,18-05 / 24-05
+1411,Bmal KO,Post,Motion,0.0486,18-05 / 24-05
+1411,Bmal KO,Post,Nest,0.0163,18-05 / 24-05
+1589,Control,Baseline,Food,0.067,22-06 / 28-06
+1589,Control,Baseline,Motion,0.0527,22-06 / 28-06
+1589,Control,Baseline,Nest,0.0147,22-06 / 28-06
+1610,Control,Baseline,Food,0.0223,22-06 / 28-06
+1610,Control,Baseline,Motion,0.0603,22-06 / 28-06
+1610,Control,Baseline,Nest,0.0302,22-06 / 28-06
+1612,Bmal KO,Baseline,Food,0.0026,22-06 / 28-06
+1612,Bmal KO,Baseline,Motion,0.0099,22-06 / 28-06
+1612,Bmal KO,Baseline,Nest,0.0101,22-06 / 28-06
+1589,Control,Shocks,Food,0.0812,07-07 / 13-07
+1589,Control,Shocks,Motion,0.0834,07-07 / 13-07
+1589,Control,Shocks,Nest,0.0196,07-07 / 13-07
+1610,Control,Shocks,Food,0.048,07-07 / 13-07
+1610,Control,Shocks,Motion,0.0782,07-07 / 13-07
+1610,Control,Shocks,Nest,0.0093,07-07 / 13-07
+1612,Bmal KO,Shocks,Food,0.0051,07-07 / 13-07
+1612,Bmal KO,Shocks,Motion,0.0348,07-07 / 13-07
+1612,Bmal KO,Shocks,Nest,0.0144,07-07 / 13-07
+1589,Control,Post,Food,0.0274,20-07 / 26-07
+1589,Control,Post,Motion,0.0259,20-07 / 26-07
+1589,Control,Post,Nest,0.0088,20-07 / 26-07
+1610,Control,Post,Food,0.0178,20-07 / 26-07
+1610,Control,Post,Motion,0.0384,20-07 / 26-07
+1610,Control,Post,Nest,0.0114,20-07 / 26-07
+1612,Bmal KO,Post,Food,0.0361,20-07 / 26-07
+1612,Bmal KO,Post,Motion,0.0206,20-07 / 26-07
+1612,Bmal KO,Post,Nest,0.01,20-07 / 26-07
