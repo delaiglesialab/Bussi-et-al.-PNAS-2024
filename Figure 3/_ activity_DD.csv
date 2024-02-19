@@ -1,0 +1,61 @@
+﻿Mouse,Behavior,Gen,Baseline,Shocks,Post
+856,Food,CamiCre +/- Bmal F/+,23.41,69.69,45.11
+856,Motion,CamiCre +/- Bmal F/+,19.85,68.37,47.08
+856,Nest,CamiCre +/- Bmal F/+,26.44,45.92,42.13
+927,Food,CamiCre +/- Bmal F/+,29.28,71.32,62.81
+927,Motion,CamiCre +/- Bmal F/+,25.31,69.08,63.97
+927,Nest,CamiCre +/- Bmal F/+,27.96,55.59,47.97
+984,Food,CamiCre +/- Bmal F/F,48.44,NA,NA
+984,Motion,CamiCre +/- Bmal F/F,46.73,55.27,51.74
+984,Nest,CamiCre +/- Bmal F/F,46.09,51.23,56.54
+1092,Food,CamiCre -/-,33.5,78.28,98.68
+1092,Motion,CamiCre -/-,30.41,84.13,92.96
+1092,Nest,CamiCre -/-,43.66,54.39,63.03
+1125,Food,CamiCre -/-,28.45,71.29,60.37
+1125,Motion,CamiCre -/-,20.5,79.48,69.67
+1125,Nest,CamiCre -/-,31.99,51.23,58.98
+1333,Food,CamiCre +/- Bmal F/F,48.03,48.97,52.88
+1333,Motion,CamiCre +/- Bmal F/F,44.82,51.93,54.71
+1333,Nest,CamiCre +/- Bmal F/F,45.22,53.87,52.14
+1335,Food,CamiCre +/- Bmal F/+,35.92,67.96,55.03
+1335,Motion,CamiCre +/- Bmal F/+,23.76,61.62,54.74
+1335,Nest,CamiCre +/- Bmal F/+,30.93,40.06,45.61
+1347,Food,CamiCre +/- Bmal F/F,46.91,49.17,NA
+1347,Motion,CamiCre +/- Bmal F/F,45.07,51.01,50.23
+1347,Nest,CamiCre +/- Bmal F/F,45.13,50.88,50.74
+1361,Food,CamiCre -/-,21.16,80.39,92.65
+1361,Motion,CamiCre -/-,20.22,76.2,93.08
+1361,Nest,CamiCre -/-,24.93,47.68,52.04
+1381,Food,CamiCre +/- Bmal F/+,39.77,69.61,51.91
+1381,Motion,CamiCre +/- Bmal F/+,24.04,81.55,59.43
+1381,Nest,CamiCre +/- Bmal F/+,27.24,48.16,43.65
+1382,Food,CamiCre +/- Bmal F/F,47.65,51.78,54.38
+1382,Motion,CamiCre +/- Bmal F/F,47.23,51.37,52.99
+1382,Nest,CamiCre +/- Bmal F/F,47.72,51.1,52.73
+1383,Food,CamiCre -/-,33.58,44.97,31.57
+1383,Motion,CamiCre -/-,24.99,61.68,66
+1383,Nest,CamiCre -/-,32.9,45.36,51.27
+1384,Food,CamiCre +/- Bmal F/F,48.41,73.36,53.65
+1384,Motion,CamiCre +/- Bmal F/F,46.89,43.72,49.41
+1384,Nest,CamiCre +/- Bmal F/F,44.99,48.99,47.14
+2015,Food,CamiCre +/- Bmal F/+,21.21,72.82,47.48
+2015,Motion,CamiCre +/- Bmal F/+,31.98,68.72,54.12
+2015,Nest,CamiCre +/- Bmal F/+,21.76,48.1,52.22
+2049,Food,CamiCre -/-,22.32,64.37,41.14
+2049,Motion,CamiCre -/-,23.09,65.84,42.97
+2049,Nest,CamiCre -/-,30.08,33.88,35.69
+2051,Food,CamiCre +/- Bmal F/F,47.38,54.24,50.82
+2051,Motion,CamiCre +/- Bmal F/F,46.62,53.36,48.95
+2051,Nest,CamiCre +/- Bmal F/F,46.94,49.43,49.45
+2052,Food,CamiCre -/-,24.96,58.01,38.67
+2052,Motion,CamiCre -/-,18.68,66.68,52.45
+2052,Nest,CamiCre -/-,20.67,31.83,31.02
+2059,Food,CamiCre -/-,27.11,57.47,42.25
+2059,Motion,CamiCre -/-,27.44,59.21,44.6
+2059,Nest,CamiCre -/-,31.44,32.4,37.75
+2060,Food,CamiCre +/- Bmal F/F,50.35,56.42,51.59
+2060,Motion,CamiCre +/- Bmal F/F,50.45,57.27,50.79
+2060,Nest,CamiCre +/- Bmal F/F,48.25,50.81,51.28
+2111,Food,CamiCre -/-,20.16,79.67,47.38
+2111,Motion,CamiCre -/-,20.19,81.41,45.93
+2111,Nest,CamiCre -/-,31.51,52.91,39.18
